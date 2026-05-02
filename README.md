@@ -8,7 +8,7 @@
 
 📱 功能演示
 
-![首页]https://imgchr.com/i/pe7Ed0g
+![首页]https://s41.ax1x.com/2026/05/02/pe7Ed0g.png
 ![找搭子](找搭子截图地址)
 ![分享路线](路线截图地址)
 
